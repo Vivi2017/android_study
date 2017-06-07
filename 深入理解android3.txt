@@ -1,0 +1,5 @@
+Java binder  / MessageQueue
+1 . 阻塞和非阻塞的binder使用？
+    FLAG_ONLY的使用
+    回调函数，也是用FLAG_ONLY方式
+
